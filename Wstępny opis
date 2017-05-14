@@ -1,0 +1,7 @@
+Tetris:
+  Klaszyczna gra, figury z kwadratowych klocków spadające na dół planszy.
+  Proste menu startowe z opcjami przejścia do nowej gry, listy najlepszych wyników, instrukcji jak grać oraz wyjściem.
+  W oknie gry okienko z podglądem następnego klocka, aktualny wynik, możliwość pauzy i wznowienia gry. 
+  Po skończonej grze wynik opcjonalnie trafia na listę najlepszych wyników, pojawia się pole p[ozwalające wpisać nick gracza.
+  Technologia WPF.
+  
